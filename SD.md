@@ -14,3 +14,13 @@ Ans 2
 Reference
 ---------
 https://www.educative.io/blog/distributed-system-design-patterns
+
+
+
+Ques 3 - System Design Problems ?
+Ans 3
+=====
+Reference
+---------
+https://www.educative.io/blog/top-10-system-design-interview-questions#insta
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
