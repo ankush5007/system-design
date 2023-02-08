@@ -1,5 +1,17 @@
-Ques 1 - What are the Fundamental or Core Cpncepts for System Design Explain ?
+Ques 1 - What are the basics of System Design Explain ?
+Or
+Ques 1.1 - what are the key points to consider when you have to build a system deisgn interview Explain ?
 Ans 1
+=====
+Reference
+----------
+https://www.educative.io/blog/system-design-primer
+
+
+
+
+Ques 2 - What are the Fundamental or Core Cpncepts for System Design Explain ?
+Ans 2
 =====
 Reference
 ---------
@@ -9,8 +21,8 @@ https://www.educative.io/blog/complete-guide-system-design-interview#resources
 
 
 
-Ques 2 - What are mains Distrubuted System Design pattern Explain ?
-Ans 2
+Ques 3 - What are mains Distrubuted System Design pattern Explain ?
+Ans 3
 =====
 Reference
 ---------
@@ -18,8 +30,8 @@ https://www.educative.io/blog/distributed-system-design-patterns
 
 
 
-Ques 3 - System Design Problems ?
-Ans 3
+Ques 4 - System Design Problems ?
+Ans 4
 =====
 Reference
 ---------
