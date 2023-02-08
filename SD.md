@@ -49,3 +49,18 @@ Ques 5 - How Would you fulfill the system requirements in terms of
 4 - performance
 5 - consistensy
 
+Ans 5
+=====
+Reference
+---------
+https://www.educative.io/blog/system-design-primer
+
+
+
+
+Ques 6 - What are the Deisgn Method which System Design Incluse it's journey Explain ?
+Ans 6
+=====
+Reference
+---------
+https://www.educative.io/blog/system-design-primer
