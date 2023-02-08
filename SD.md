@@ -64,3 +64,16 @@ Ans 6
 Reference
 ---------
 https://www.educative.io/blog/system-design-primer
+
+
+
+
+Ques 7 - How to measure the Scalabilty For High performance Web Apps Explain ?
+Or
+Ques 7.1 - What are the points to be covered during Scalabilty Measurement Explain ? 
+Ans 7
+=====
+Reference
+---------
+https://www.informit.com/articles/article.aspx?p=26942&seqNum=18
+https://www.outsystems.com/blog/posts/measuring-low-code-scalability/
