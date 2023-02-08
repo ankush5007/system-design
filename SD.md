@@ -4,7 +4,7 @@ Ans 1
 Reference
 ---------
 https://www.educative.io/blog/complete-guide-to-system-design#distributeddesignpatterns
-
+https://www.educative.io/blog/complete-guide-system-design-interview
 
 
 
