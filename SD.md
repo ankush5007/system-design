@@ -79,3 +79,12 @@ Reference
 ---------
 https://www.informit.com/articles/article.aspx?p=26942&seqNum=18
 https://www.outsystems.com/blog/posts/measuring-low-code-scalability/
+
+
+
+Ques 8 - What are the Different Kind of System we go through or understand while System Desiging Process Explain ?
+Ans 8
+=====
+Reference
+----------
+https://www.educative.io/blog/system-design-primer
