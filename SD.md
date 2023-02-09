@@ -99,3 +99,15 @@ Reference
 https://www.enjoyalgorithms.com/system-design/
 https://www.educative.io
 https://www.enjoyalgorithms.com/system-design-courses/
+
+
+Ques 10 - What is P2P Architecture Explain ?
+Or
+Ques 10.1 - How Does P2P network works Explain ?
+Or
+Ques 10.2 - 
+
+Ans 10
+======
+Reference
+---------
