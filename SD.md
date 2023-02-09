@@ -88,3 +88,13 @@ Ans 8
 Reference
 ----------
 https://www.educative.io/blog/system-design-primer
+
+
+
+Ques 9 - What are the Tools/links/Tuts for Best System Design  Explain ?
+Ans 9
+=====
+Reference
+---------
+https://www.enjoyalgorithms.com/system-design/
+https://www.educative.io
