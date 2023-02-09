@@ -112,8 +112,11 @@ Or
 Ques 10.4 - Types of P2P network Explain ?
 Or
 Ques 10.5 - Pros and Cons of P2p Network Explain ?
+Or
+Ques 10.6 - Is WebRTC really peer-to-peer protocol?
 Ans 10
 ======
 Reference
 ---------
 https://www.enjoyalgorithms.com/blog/peer-to-peer-networks
+https://stackoverflow.com/questions/29416431/is-webrtc-really-peer-to-peer-protocol
