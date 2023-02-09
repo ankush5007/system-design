@@ -106,9 +106,12 @@ Or
 Ques 10.1 - How Does P2P network works Explain ?
 Or
 Ques 10.2 - Use Case of p2p Architecture Explain ?
-or
-Ques 10.3 - 
-
+Or
+Ques 10.3 - Examples of P2P Architecture Explain ?
+Or
+Ques 10.4 - Types of P2P network Explain ?
+Or
+Ques 10.5 - Pros and Cons of P2p Network Explain ?
 Ans 10
 ======
 Reference
