@@ -105,9 +105,12 @@ Ques 10 - What is P2P Architecture Explain ?
 Or
 Ques 10.1 - How Does P2P network works Explain ?
 Or
-Ques 10.2 - 
+Ques 10.2 - Use Case of p2p Architecture Explain ?
+or
+Ques 10.3 - 
 
 Ans 10
 ======
 Reference
 ---------
+https://www.enjoyalgorithms.com/blog/peer-to-peer-networks
