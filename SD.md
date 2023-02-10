@@ -1,6 +1,6 @@
 Ques 1 - What are the basics of System Design Explain ?
 Or
-Ques 1.1 - what are the key points to consider when you have to build a system deisgn interview Explain ?
+Ques 1.1 - what are the basic key points to consider when you have to build a system deisgn  Explain ?
 Ans 1
 =====
 Reference
@@ -8,6 +8,11 @@ Reference
 https://www.educative.io/blog/system-design-primer
 https://www.educative.io/blog/system-design-primer
 
+
+
+
+1,1.1
+------
 
 
 
