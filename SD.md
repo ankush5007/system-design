@@ -51,7 +51,7 @@ https://www.educative.io/blog/top-10-system-design-interview-questions#insta
 https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
 https://www.interviewbit.com/system-design-interview-questions/
 https://igotanoffer.com/blogs/tech/system-design-interviews
-
+https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html
 
 
 Ques 5 - How Would you fulfill the system requirements in terms of
