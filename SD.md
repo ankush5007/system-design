@@ -16,7 +16,7 @@ https://www.educative.io/blog/system-design-primer
 These are the fundamentals of system design
 1 - Scaling 
 2 - Microservices
-3 - Proxy Servers
+3 - Proxy Servers (Forward vs Reverse)
 
 
 
