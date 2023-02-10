@@ -79,16 +79,21 @@ Or
 Ques 7.1 - What are the points to be covered during Scalabilty Measurement Explain ?
 Or
 Ques 7.2 - What are Tools Available To Measurement Scalabilty Explain ? 
+Or
+Ques 7.3 - What Is Scalability Testing? How To Test The Scalability Of An Application Explain ?
 Ans 7
 =====
 Reference
 ---------
 https://www.informit.com/articles/article.aspx?p=26942&seqNum=18
 https://www.outsystems.com/blog/posts/measuring-low-code-scalability/
+https://www.softwaretestinghelp.com/what-is-scalability-testing/
 
 
 
-Ques 8 - What are the Different Kind of System we go through or understand while System Desiging Process Explain ?
+
+
+Ques 8 - What are the Different Kind of System Phase we go through or understand while System Desiging Process Explain ?
 Ans 8
 =====
 Reference
