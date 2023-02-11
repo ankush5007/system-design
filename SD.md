@@ -17,7 +17,7 @@ These are the fundamentals of system design
 1 - Scaling 
 2 - Microservices
 3 - Proxy Servers (Forward vs Reverse)
-4 - Cap Theorom
+4 - Cap Theorom Practical Understandings
 5 - 
 
 
