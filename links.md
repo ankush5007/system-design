@@ -2,3 +2,4 @@ https://medium.com/javarevisited/top-10-object-oriented-analysis-and-design-inte
 
 byebyetego
 graphql
+https://interviewready.io/course-page/system-design-course
